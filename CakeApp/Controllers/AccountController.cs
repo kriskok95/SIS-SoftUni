@@ -11,6 +11,7 @@ using SIS.HTTP.Requests;
 using SIS.HTTP.Requests.Contracts;
 using SIS.HTTP.Responses;
 using SIS.HTTP.Responses.Contracts;
+using SIS.MvcFramework.Routing;
 using SIS.MvcFramework.Services;
 
 namespace CakeApp.Controllers
@@ -24,11 +25,13 @@ namespace CakeApp.Controllers
             this.hashService = new HashService();
         }
 
+        [HttpGet("/register")]
         public IHttpResponse Register()
         {
             return this.View("Register");
         }
 
+        [HttpPost("/register")]
         public IHttpResponse DoRegister()
         {
             string username = this.Request.FormData["username"].ToString();
@@ -67,11 +70,13 @@ namespace CakeApp.Controllers
             return this.View("Index");
         }
 
+        [HttpGet("/login")]
         public IHttpResponse Login()
         {
             return this.View("Login");
         }
 
+        [HttpPost("/login")]
         public IHttpResponse DoLogin()
         {
             string username = this.Request.FormData["username"].ToString().Trim();
@@ -94,6 +99,7 @@ namespace CakeApp.Controllers
 
         }
 
+        [HttpGet("/logout")]
         public IHttpResponse LogOut()
         {
             if (!this.Request.Cookies.ContainsCookie(".auth-cakes"))

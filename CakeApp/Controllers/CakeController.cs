@@ -8,16 +8,19 @@ using CakeApp.Models;
 using SIS.HTTP.Exceptions;
 using SIS.HTTP.Requests.Contracts;
 using SIS.HTTP.Responses.Contracts;
+using SIS.MvcFramework.Routing;
 
 namespace CakeApp.Controllers
 {
     public class CakeController : BaseController
     {
+        [HttpGet("/cake/add")]
         public IHttpResponse AddCake()
         {
             return this.View("AddCake");
         }
 
+        [HttpPost("/cake/add")]
         public IHttpResponse DoAddCake()
         {
             string name = this.Request.FormData["name"].ToString().Trim();
@@ -47,6 +50,7 @@ namespace CakeApp.Controllers
             return this.Redirect("/");
         }
 
+        [HttpGet("/cake/view")]
         public IHttpResponse ViewCake()
         {
             int cakeId = int.Parse(this.Request.QueryData["id"].ToString());

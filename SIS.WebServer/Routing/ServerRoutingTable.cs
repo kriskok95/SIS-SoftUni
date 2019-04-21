@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using SIS.HTTP.Enums;
 using SIS.HTTP.Requests.Contracts;
 using SIS.HTTP.Responses.Contracts;
@@ -20,5 +21,10 @@ namespace SIS.WebServer.Routing
         }
 
         public Dictionary<HttpRequestMethod, Dictionary<string, Func<IHttpRequest, IHttpResponse>>> Routes { get; }
+
+        public void Add(HttpRequestMethod method, string path, Func<IHttpRequest, IHttpResponse> func)
+        {
+            this.Routes[method].Add(path, func);
+        }
     }
 }

@@ -12,9 +12,9 @@ using SIS.MvcFramework.Services.Contracts;
 
 namespace SIS.MvcFramework
 {
-    public class Controller
+    public abstract class Controller
     {
-        public Controller()
+        protected Controller()
         {
             this.UserCookieService = new UserCookieService();
             this.Response = new HttpResponse();

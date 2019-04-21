@@ -4,7 +4,7 @@ namespace SIS.MvcFramework.Contracts
 {
     public interface IMvcApplication
     {
-        void Configure(ServerRoutingTable routing);
+        void Configure();
 
         void ConfigureServices();
     }

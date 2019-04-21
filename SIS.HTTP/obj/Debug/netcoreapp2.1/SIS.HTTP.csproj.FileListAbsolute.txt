@@ -6,3 +6,4 @@ C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.HTTP\obj
 C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.AssemblyInfo.cs
 C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.dll
 C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\krist\source\repos\C#WebBasics\AsynchronousProgramming\SIS\SIS.HTTP\obj\Debug\netcoreapp2.1\SIS.HTTP.csprojAssemblyReference.cache
