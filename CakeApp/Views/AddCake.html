@@ -1,0 +1,24 @@
+﻿<h1>Add cake</h1>
+<form method="post" action="/cake/add">
+    <div class="form-group row">
+        <label class="form-control-label col-sm-2">Name:</label>
+        <div class="col-sm-4">
+            <input class="form-control" type="text" name="name" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <label class="form-control-label col-sm-2">Price:</label>
+        <div class="col-sm-4">
+            <input class="form-control" type="number" name="price" min="0.1" max="100"/>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label class="form-control-label col-sm-2">Url:</label>
+        <div class="col-sm-4">
+            <input class="form-control" type="url" name="url" />
+        </div>
+    </div>
+    <div>
+        <input class="btn btn-primary" type="submit" name="addCake" value="Add Cake" />
+    </div>
+</form>
