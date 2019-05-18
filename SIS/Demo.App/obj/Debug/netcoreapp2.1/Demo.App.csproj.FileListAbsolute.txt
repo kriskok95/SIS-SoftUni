@@ -1,0 +1,17 @@
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\obj\Debug\netcoreapp2.1\Demo.App.csprojAssemblyReference.cache
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\obj\Debug\netcoreapp2.1\Demo.App.csproj.CoreCompileInputs.cache
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\obj\Debug\netcoreapp2.1\Demo.App.AssemblyInfoInputs.cache
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\obj\Debug\netcoreapp2.1\Demo.App.AssemblyInfo.cs
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\Views\Home\Home.html
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\Demo.App.deps.json
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\Demo.App.runtimeconfig.json
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\Demo.App.runtimeconfig.dev.json
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\Demo.App.dll
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\Demo.App.pdb
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\obj\Debug\netcoreapp2.1\Demo.App.csproj.CopyComplete
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\obj\Debug\netcoreapp2.1\Demo.App.dll
+C:\Users\krist\Downloads\csharp-web-master\csharp-web-master\2019-May-Season\SoftUni-Information-Services\src\Demo.App\obj\Debug\netcoreapp2.1\Demo.App.pdb
