@@ -729,11 +729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krist\\Downloads\\csharp-web-master\\csharp-web-master\\2019-May-Season\\SoftUni-Information-Services\\src\\Demo.App\\Demo.App.csproj",
+      "projectUniqueName": "C:\\Programming\\SISWebServer\\SIS\\Demo.App\\Demo.App.csproj",
       "projectName": "Demo.App",
-      "projectPath": "C:\\Users\\krist\\Downloads\\csharp-web-master\\csharp-web-master\\2019-May-Season\\SoftUni-Information-Services\\src\\Demo.App\\Demo.App.csproj",
+      "projectPath": "C:\\Programming\\SISWebServer\\SIS\\Demo.App\\Demo.App.csproj",
       "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krist\\Downloads\\csharp-web-master\\csharp-web-master\\2019-May-Season\\SoftUni-Information-Services\\src\\Demo.App\\obj\\",
+      "outputPath": "C:\\Programming\\SISWebServer\\SIS\\Demo.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -752,11 +752,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\krist\\Downloads\\csharp-web-master\\csharp-web-master\\2019-May-Season\\SoftUni-Information-Services\\src\\SIS.HTTP\\SIS.HTTP.csproj": {
-              "projectPath": "C:\\Users\\krist\\Downloads\\csharp-web-master\\csharp-web-master\\2019-May-Season\\SoftUni-Information-Services\\src\\SIS.HTTP\\SIS.HTTP.csproj"
+            "C:\\Programming\\SISWebServer\\SIS\\SIS.HTTP\\SIS.HTTP.csproj": {
+              "projectPath": "C:\\Programming\\SISWebServer\\SIS\\SIS.HTTP\\SIS.HTTP.csproj"
             },
-            "C:\\Users\\krist\\Downloads\\csharp-web-master\\csharp-web-master\\2019-May-Season\\SoftUni-Information-Services\\src\\SIS.WebServer\\SIS.WebServer.csproj": {
-              "projectPath": "C:\\Users\\krist\\Downloads\\csharp-web-master\\csharp-web-master\\2019-May-Season\\SoftUni-Information-Services\\src\\SIS.WebServer\\SIS.WebServer.csproj"
+            "C:\\Programming\\SISWebServer\\SIS\\SIS.WebServer\\SIS.WebServer.csproj": {
+              "projectPath": "C:\\Programming\\SISWebServer\\SIS\\SIS.WebServer\\SIS.WebServer.csproj"
             }
           }
         }
