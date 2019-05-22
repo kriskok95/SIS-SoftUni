@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS.HTTP", "SIS.HTTP\SIS.HTTP.csproj", "{D5A85595-330D-490A-B8B0-AF6AAB3CFA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS.WebServer", "SIS.WebServer\SIS.WebServer.csproj", "{13D3BDC1-463D-4B6F-BB8B-C2E7789E168F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS.Demo", "SIS.Demo\SIS.Demo.csproj", "{36E8BBB8-872E-45C8-BCC9-41C0965725F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A85595-330D-490A-B8B0-AF6AAB3CFA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A85595-330D-490A-B8B0-AF6AAB3CFA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A85595-330D-490A-B8B0-AF6AAB3CFA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A85595-330D-490A-B8B0-AF6AAB3CFA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D3BDC1-463D-4B6F-BB8B-C2E7789E168F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D3BDC1-463D-4B6F-BB8B-C2E7789E168F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D3BDC1-463D-4B6F-BB8B-C2E7789E168F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D3BDC1-463D-4B6F-BB8B-C2E7789E168F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E8BBB8-872E-45C8-BCC9-41C0965725F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E8BBB8-872E-45C8-BCC9-41C0965725F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E8BBB8-872E-45C8-BCC9-41C0965725F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E8BBB8-872E-45C8-BCC9-41C0965725F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F20AE4-4A87-4DA1-93E7-70F8DB431C65}
+	EndGlobalSection
+EndGlobal
